@@ -1,0 +1,54 @@
+body{
+    margin:0;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background:#111;
+    font-family:Arial, sans-serif;
+    color:white;
+    overflow:hidden;
+    transition:0.2s;
+}
+
+.container{
+    text-align:center;
+}
+
+button{
+    padding:15px 30px;
+    font-size:18px;
+    border:none;
+    border-radius:12px;
+    background:#ff004c;
+    color:white;
+    cursor:pointer;
+    transition:0.3s;
+}
+
+button:hover{
+    transform:scale(1.1);
+}
+
+.flash{
+    background:#057cd2 !important;
+}
+
+.shake{
+    animation:shake 0.4s;
+}
+
+@keyframes shake{
+    0% { transform:translate(0px,0px); }
+    25% { transform:translate(-10px,5px); }
+    50% { transform:translate(10px,-5px); }
+    75% { transform:translate(-10px,5px); }
+    100% { transform:translate(0px,0px); }
+}
+
+#memeText{
+    margin-top:20px;
+    font-size:22px;
+    font-weight:bold;
+    min-height:30px;
+}
