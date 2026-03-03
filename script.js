@@ -10,6 +10,9 @@ const memes = [
 "When WiFi disconnects during match ⚽",
 "When you study Chapter 5 but exam comes from Chapter 2 😭",
 "When teacher says “Open your book” but you didn’t bring it ",
+"When you confidently say the wrong answer in class 🤡",
+"When your alarm rings but it’s Sunday morning 😤",
+"When teacher says “This will not come in exam”… and it comes 📝"
     
 ];
 
