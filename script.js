@@ -8,7 +8,8 @@ const memes = [
 "When exam date announced suddenly 📚",
 "When you send message to wrong person 😵",
 "When WiFi disconnects during match ⚽",
-
+"When you study Chapter 5 but exam comes from Chapter 2 😭",
+"When teacher says “Open your book” but you didn’t bring it ",
     
 ];
 
